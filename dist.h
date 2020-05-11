@@ -1,7 +1,7 @@
 /*dist.h*/
 
 //
-// Prof. Joe Hummel
+// Nishant Chudasama
 // U. of Illinois, Chicago
 // CS 251: Spring 2020
 // Project #07: open street maps, graphs, and Dijkstra's alg
